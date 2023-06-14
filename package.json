@@ -27,5 +27,11 @@
     "parcel": "^1.12.3",
     "stylelint": "^14.12.1",
     "stylelint-config-standard-scss": "^5.0.0"
+  },
+  "dependencies": {
+    "crc": "^4.3.2",
+    "crc-32": "^1.2.2",
+    "pako": "^2.1.0",
+    "zlib": "^1.0.5"
   }
 }
